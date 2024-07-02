@@ -1,0 +1,22 @@
+特殊ファイル名 対訳
+
+表紙 front 例:WPRO1973front.pdf
+中表紙 title 例:WPRO1973title.pdf
+はしがき・準備にあたって・など preface1, preface2, ... 例:WPRO1973preface1.pdf
+シンポジウム日程 program 例:WPRO1973program.pdf
+目次 toc 例:WPRO1973toc.pdf
+裏表紙 back 例:WPRO1973back.pdf
+
+セッション 中表紙 例:A00 (セッションA)
+
+以下はセッション番号が振られていれば番号を優先
+夏のプロシン 例:summer
+若手の会 例:wakate
+GPCC報告 例:gpcc
+山内賞 例:yamauti
+ポスターセッション poster1, poster2, ... 例:WPRO1980poster1.pdf
+
+奥付 colophon WPRO1980colophon.pdf
+
+報告集バックナンバー  backnumbers WPRO1980backnumbers.pdf
+
