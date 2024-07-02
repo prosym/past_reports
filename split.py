@@ -19,6 +19,11 @@ with open(tsv_filename) as f:
         line = newline.rstrip("\r\n")
         items = line.split("\t")
         result_filename = items[14]
+
+        if not result_filename:
+            print("Result filename is empty.")
+            exit(1)
+
         start_page_physical = int(items[26])
         end_page_physical = int(items[27])
 
