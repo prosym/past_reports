@@ -18,4 +18,6 @@ GPCC報告 例:gpcc
 奥付 colophon WPRO1980colophon.pdf
 裏表紙 back 例:WPRO1973back.pdf
 
+シンポジウムの参加費のお支払いについて notice 例:WPRO1991notice.pdf
+
 報告集バックナンバー  backnumbers WPRO1980backnumbers.pdf
