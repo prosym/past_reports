@@ -5,7 +5,6 @@
 はしがき・準備にあたって・など preface1, preface2, ... 例:WPRO1973preface1.pdf
 シンポジウム日程 program 例:WPRO1973program.pdf
 目次 toc 例:WPRO1973toc.pdf
-裏表紙 back 例:WPRO1973back.pdf
 
 セッション 中表紙 例:A00 (セッションA)
 
@@ -17,6 +16,6 @@ GPCC報告 例:gpcc
 ポスターセッション poster1, poster2, ... 例:WPRO1980poster1.pdf
 
 奥付 colophon WPRO1980colophon.pdf
+裏表紙 back 例:WPRO1973back.pdf
 
 報告集バックナンバー  backnumbers WPRO1980backnumbers.pdf
-
