@@ -3,12 +3,13 @@ import re
 import subprocess
 import sys
 
-if len(sys.argv) < 3:
+if len(sys.argv) < 4:
     print("Too few arguments.")
     exit(1)
 
 original_pdf_filename = sys.argv[1]
-tsv_filename = sys.argv[2]
+remarks_pdf_filename = sys.argv[2]
+tsv_filename = sys.argv[3]
 
 with open(tsv_filename) as f:
     first = True
@@ -30,8 +31,10 @@ with open(tsv_filename) as f:
         cmdline = [
             "pdftk",
             "A={}".format(original_pdf_filename),
+            "B={}".format(remarks_pdf_filename),
             "cat",
             "A{}-{}".format(start_page_physical, end_page_physical),
+            "B",
             "output",
             result_filename]
         print(cmdline)
