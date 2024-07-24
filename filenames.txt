@@ -2,9 +2,12 @@
 
 表紙 front 例:WPRO1973front.pdf
 中表紙 title 例:WPRO1973title.pdf
+正誤表 errata 例:WPRO1964errata.pdf
 はしがき・準備にあたって・など preface1, preface2, ... 例:WPRO1973preface1.pdf
 シンポジウム日程 program 例:WPRO1973program.pdf
 目次 toc 例:WPRO1973toc.pdf
+奥付 colophon WPRO1980colophon.pdf
+裏表紙 back 例:WPRO1973back.pdf
 
 セッション 中表紙 例:A00 (セッションA)
 
@@ -14,9 +17,6 @@
 GPCC報告 例:gpcc
 山内賞 例:yamauti
 ポスターセッション poster1, poster2, ... 例:WPRO1980poster1.pdf
-
-奥付 colophon WPRO1980colophon.pdf
-裏表紙 back 例:WPRO1973back.pdf
 
 シンポジウムの参加費のお支払いについて notice 例:WPRO1991notice.pdf
 
